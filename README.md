@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1004-max-consecutive-ones-iii) |
+| [3978-unique-middle-element](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0142-linked-list-cycle-ii) |
+## Counting
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->
