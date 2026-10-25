@@ -2,24 +2,23 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         int n = nums.size();
-        if(n <= 2) return n;
-
-        int officer = 1;
-        int res = 2;
-        int cm = 2;
-
-        while(cm < n) {
-            if(nums[cm] == nums[officer - 1]) {
-                cm++;
+        if(n <= 2){
+            return n;
+        }
+        int uniq = 2;
+        int i = 2;
+        while(i<n){
+            if(nums [ uniq-2 ] == nums[i]){//agar same hai i.e. duplicate
+                i++;
                 continue;
             }
+            //found a unique elemnt
+            nums[uniq] = nums[i];
+            uniq ++;
+            i++;
 
-            nums[officer + 1] = nums[cm];
-            officer++;
-            res++;
-            cm++;
         }
-
-        return res;
+        return uniq;
+        
     }
 };
