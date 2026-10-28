@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0918-maximum-sum-circular-subarray) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
