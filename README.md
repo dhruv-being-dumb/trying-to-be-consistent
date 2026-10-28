@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3978-unique-middle-element](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/3978-unique-middle-element) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
