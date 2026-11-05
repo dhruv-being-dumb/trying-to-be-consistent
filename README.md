@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,4 +142,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
