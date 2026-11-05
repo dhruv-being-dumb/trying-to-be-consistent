@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0918-maximum-sum-circular-subarray) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
