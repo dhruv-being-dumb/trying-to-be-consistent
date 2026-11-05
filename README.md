@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0904-fruit-into-baskets) |
