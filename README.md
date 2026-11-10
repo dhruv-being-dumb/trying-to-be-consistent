@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
