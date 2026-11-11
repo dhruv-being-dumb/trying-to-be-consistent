@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0876-middle-of-the-linked-list) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/dhruv-being-dumb/trying-to-be-consistent/tree/master/0231-power-of-two) |
 ## Pigeonhole Principle
 |  |
